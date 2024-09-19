@@ -2,4 +2,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-added image
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+added checklist
